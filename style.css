@@ -1,0 +1,25 @@
+.txt {
+    font-family: cursive;
+    font-size: 10px;
+}
+
+.doc {
+    font-family: cursive;
+    font-size: 0.3rem;
+}
+
+.dice {
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+}
+
+.img1 {
+    width: 40px;
+    height: 40px;
+}
+
+.img2 {
+    width: 40px;
+    height: 40px;
+}
