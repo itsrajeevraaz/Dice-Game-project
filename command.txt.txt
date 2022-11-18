@@ -1,0 +1,11 @@
+git config --global user.name itsrajeevraaz
+git config --global user.email rajeevjohn304@gmail.com
+
+git init
+
+git add .
+
+git commit -m "initial commit"
+
+
+git status
